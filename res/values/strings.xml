@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mqreoot</string>
+    <string name="launcher_name_reboot">Reboot</string>
+    <string name="launcher_name_power_off">Power Off</string>
+    <string name="prompt_reboot">Your phone will restart.</string>
+    <string name="prompt_power_off">Your phone will shut down.</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">OK</string>
+
+
+</resources>

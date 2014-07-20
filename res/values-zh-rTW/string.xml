@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MQ重開機</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_ok">確定</string> 
+</resources>
